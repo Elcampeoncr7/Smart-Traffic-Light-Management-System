@@ -1,4 +1,4 @@
-# Dynamic-Traffic-light-management-system
+# Smart-Traffic-light-management-system
 This repository contains files for the traffic light management system using Reinforcement Learning.
 
 ## Basic Concept 
@@ -102,4 +102,8 @@ Traffic Congestion without Training
 Traffic Cangestion after Training
 
 ![Traffic Congestion after training](https://github.com/Elcampeoncr7/Smart-Traffic-Light-Management-System/assets/71449727/4ce08c76-a86e-4b99-96fe-349096ac783f)
+
+### Tableau Dashboard 
+
+https://public.tableau.com/app/profile/maria.poulose/viz/SUMO-pjct_2/Dashboard1?publish=yes
 
