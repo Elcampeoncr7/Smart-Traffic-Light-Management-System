@@ -85,7 +85,7 @@ After the completion fo the model you will get the total waiting time for 500 Si
 
 ![opt1](/Smart%20Traffic%20Signal/Output_data_files/trained_model.jpg)
 
-### Stpe 5 : Running the Simulation without training model to check the difference :
+### Step 5 : Running the Simulation without training model to check the difference :
 
 To run a pre-trained model on the GUI, use 'without_training.py' with the command:
 
@@ -94,3 +94,14 @@ To run a pre-trained model on the GUI, use 'without_training.py' with the comman
 This will open the GUI for the original model and in the command line you will get the total waiting time for 500 Simulation Steps.
 
 ![Simulation Output](/Smart%20Traffic%20Signal/Output_data_files/without_training.jpg)
+
+### Step 6 : Results
+
+Traffic Congestion without Training
+
+![Traffic Congestion before training](https://github.com/Elcampeoncr7/Smart-Traffic-Light-Management-System/assets/71449727/c2666b0c-4cd9-461d-98d8-755380b33ad4)
+
+Traffic Cangestion after Training
+
+![Traffic Congestion after training](https://github.com/Elcampeoncr7/Smart-Traffic-Light-Management-System/assets/71449727/4ce08c76-a86e-4b99-96fe-349096ac783f)
+
