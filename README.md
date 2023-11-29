@@ -105,5 +105,5 @@ Traffic Cangestion after Training
 
 ### Tableau Dashboard 
 
-![Tbl](https://public.tableau.com/app/profile/maria.poulose/viz/SUMO-pjct_2/Dashboard1?publish=yes)
+https://public.tableau.com/app/profile/maria.poulose/viz/SUMO-pjct_2/Dashboard1?publish=yes
 
