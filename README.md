@@ -29,11 +29,11 @@ This repository contains files for the traffic light management system using Rei
 Here are examples of some of the maps used to train the model.
 
 ### San Jose Downtown Map 
-![map](/Smart%20Traffic%20Signal/maps\San_Jose_Downtown_Map.jpg)
+![map](/Smart%20Traffic%20Signal/maps/San_Jose_Downtown_Map.jpg)
 
 ###  Epoch Vs Time for San Jose Downtown Map 
 
-![evst](/Smart%20Traffic%20Signal/Visualization\time_vs_epochs.png)
+![evst](/Smart%20Traffic%20Signal/Visualization/time_vs_epochs.png)
 
 ## Simulation without Training.
 
