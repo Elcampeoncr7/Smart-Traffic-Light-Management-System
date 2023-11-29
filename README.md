@@ -35,9 +35,13 @@ Here are examples of some of the maps used to train the model.
 
 ![evst](/Smart%20Traffic%20Signal/Visualization\time_vs_epochs.png)
 
+## Simulation without Training.
+
+https://github.com/Elcampeoncr7/Smart-Traffic-Light-Management-System/assets/71449727/267482d7-63bf-4c41-9221-7f713b5a64a5
+
 ## Simulation of Trained Model.
 
-https://user-images.githubusercontent.com/44360315/113673665-e8edd300-96d6-11eb-8fbe-d09e078fbfbe.mp4
+https://github.com/Elcampeoncr7/Smart-Traffic-Light-Management-System/assets/71449727/90c981f4-052b-4edb-9feb-f8684f6a1503
 
 ## How to train new Networks.
 
