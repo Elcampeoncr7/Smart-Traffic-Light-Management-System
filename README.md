@@ -3,8 +3,6 @@ This repository contains files for the traffic light management system using Rei
 
 ## Basic Concept 
 
-![sample](documentation/samplecity1.PNG)
-
 - Imagine a city grid with four traffic light nodes labeled as n1, n2, n3, and n4. 
 - In our model, decisions are made for each node, determining which side should have the green signal.
 - It is essential to establish a minimum time limit (e.g., 30 seconds) that our model cannot exceed when selecting the green light duration. 
@@ -14,7 +12,7 @@ This repository contains files for the traffic light management system using Rei
 
 ## Training Approach:
 
-![train](documentation/train_loop.png)
+![train_loop](https://github.com/Elcampeoncr7/Smart-Traffic-Light-Management-System/assets/71449727/01f34cda-6e57-4472-a214-a9776ed9c376)
 
 - The model undergoes training based on numerous events, defined as predetermined motions where vehicles pass through nodes in a fixed (pseudo-random) manner.   
 - Keeping events fixed ensures consistent results, as using random events each time would yield unpredictable outcomes. 
